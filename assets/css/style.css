@@ -268,7 +268,7 @@ img.w-css-reset {
   position: relative;
 }
 
-.card_wrap {
+/* .card_wrap {
   position: relative;
   display: block;
   background-color: #fff;
@@ -279,7 +279,7 @@ img.w-css-reset {
   overflow: hidden;
   border-radius: 0.5rem;
   box-shadow: 0 0.125rem 0.875rem 0 hsl(0deg 0% 74% / 50%);
-}
+} */
 .card_wrap .img-wrapper img {
   transition: transform 0.5s;
 }
